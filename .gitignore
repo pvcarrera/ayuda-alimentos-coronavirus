@@ -9,3 +9,6 @@ admin/config.js
 .phpunit.*.cache
 error_log
 php.ini
+
+node_modules/
+dist/

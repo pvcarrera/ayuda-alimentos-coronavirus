@@ -61,4 +61,3 @@ $(function() {
 
     init_table_filter();
 });
-
